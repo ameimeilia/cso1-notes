@@ -3,3 +3,19 @@ title: amelia's cso-1 notes
 description: daniel graham
 
 header_pages:
+  - Midterm1/1 - Boolean Algebra.md
+  - Midterm1/2 - Binary Arithmetic, SSH.md
+  - Midterm1/3 - Binary Arithmetic cont..md
+  - Midterm1/4 - Bitwise.md
+  - Midterm1/5 - Bitwise.md
+  - Midterm1/6 - Endian and Floating Point.md
+  - Midterm1/7 -Muxes, Clocks, and Flip-Flops.md
+  - Midterm1/8 - Code and Circuits.md
+  - Midterm1/9 - Building to a Computer.md
+  - Midterm1/10 - fetch-decode-execute, ISA.md
+  - Midterm1/11 - ISA.md
+  - Midterm1/12 - Writing Machine Code.md
+  - Midterm1/13 - Push, Pop, and Functions.md
+  - Midterm1/14 - Overview.md
+  - Midterm1/15 - Functions.md
+

@@ -1,3 +1,7 @@
+---
+layout: default
+title: Muxes, Clocks, and Flip-Flops
+---
 ##### Muxes
 - selector S input selects between one of N inputs to connect to output
 - represented each input with log<sub>2</sub>N bits

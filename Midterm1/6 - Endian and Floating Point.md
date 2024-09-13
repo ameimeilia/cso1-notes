@@ -1,3 +1,7 @@
+---
+layout: default
+title: Endian and Floating Point
+---
 ##### Endianness
 - **Little endian**: least significant byte at lowest address
 - **Bit endian**: most significant byte at lowest address

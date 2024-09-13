@@ -1,3 +1,7 @@
+---
+layout: default
+title: Bitwise
+---
 ##### Negative Numbers
 **Sign Bit**: the highest order bit indicates the sign of the number
 - doesn’t work with ripple carry adders

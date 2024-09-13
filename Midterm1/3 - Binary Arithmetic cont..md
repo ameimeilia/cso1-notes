@@ -1,3 +1,7 @@
+---
+layout: default
+title: Binary Arithmetic cont.
+---
 ##### Half and Full Adders cont.
 ![[Screen Shot 2024-01-24 at 2.26.01 PM.png | center | 400]]
 - the sum is equivalent to an XOR

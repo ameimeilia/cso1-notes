@@ -1,3 +1,7 @@
+---
+layout: default
+title: Push, Pop, and Functions
+---
 ##### icode 5
 - b-values of 0, 1, and 2 can be executed with the ALU
 - data path is long, make sure clock is slow enough for all data to propagate

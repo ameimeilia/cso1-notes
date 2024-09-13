@@ -1,3 +1,7 @@
+---
+layout: default
+title: Binary Arithmetic, SSH
+---
 ##### Decimals and Binary
 - convert decimals to binary
 - divide and take the remainders going backwards, or

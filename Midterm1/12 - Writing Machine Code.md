@@ -1,3 +1,7 @@
+---
+layout: default
+title: Writing Machine Code
+---
 ##### Exam Question
 ![[Screen Shot 2024-02-18 at 4.03.07 PM.png]]
 ##### Instruction Memory and Instruction Register

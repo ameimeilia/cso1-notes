@@ -1,3 +1,7 @@
+---
+layout: default
+title: Midterm 1 Study Guide
+---
 #### Boolean Algebra
 **Logic Gates**
 ![[Screen Shot 2024-05-03 at 4.39.33 PM.png | center | 500]]

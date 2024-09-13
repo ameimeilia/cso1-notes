@@ -1,3 +1,7 @@
+---
+layout: default
+title: Code and Circuits
+---
 ##### Demux
 - connects one input to one of the N outputs
 ![[Screenshot 2024-09-12 at 9.58.33 PM.png | center | 400]]

@@ -1,3 +1,7 @@
+---
+layout: default
+title: Boolean Algebra
+---
 ##### Logic Gates
 - circuits that perform logic functions
 - have different symbols and their behavior is normally described using a truth table

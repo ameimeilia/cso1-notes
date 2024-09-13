@@ -1,3 +1,7 @@
+---
+layout: default
+title: Bitwise cont.
+---
 ##### Bitwise Operators
 - compare each bit of the first operand to the corresponding bit of the second operand
 

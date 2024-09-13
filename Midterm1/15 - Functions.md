@@ -1,3 +1,7 @@
+---
+layout: default
+title: Functions
+---
 ##### ISA extended R=1
 ![[Screen Shot 2024-02-25 at 10.36.11 PM.png | center | 500]]
 ##### Function Parameters
